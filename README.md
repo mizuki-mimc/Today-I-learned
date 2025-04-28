@@ -150,3 +150,12 @@ JavaScript入門：
 - コンソールでJSを使ってみよう
 - DOM操作
 - イベントリスナー
+
+# 4/28
+**入門STEP**
+
+JavaScript入門：
+- functionについて
+
+入門STEP総復習：
+- 入門STEP総復習クイズ
